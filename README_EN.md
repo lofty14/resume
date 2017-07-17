@@ -9,8 +9,8 @@
 
 # Experience
 ## Senior iOS Developer at [Serious Tech](https://enjoy.ricebook.com/)
-*Responsible for the business development and architechture optimization in Enjoy. (2016.5 - 2017.6)*  
-> developped with Swift
+*Responsible for the business development and architecture optimization in Enjoy. (2016.5 - 2017.6)*  
+> developed with Swift
 
 ### Business development
 * local product detail, express product detail
@@ -18,9 +18,9 @@
 * search function, optimized with reactive programming
 * category, pass, GPS, personal center etc.
 
-### Architechture optimization
+### Architecture optimization
 * convert solid code to frameworks for compile optimization
-* encapsulate ListAdapter to simplify collectionview adaption
+* encapsulate ListAdapter to simplify collectionView adaption
 * extensions with namespace
 * UI chain programming
 * simplify business development with RxSwift
@@ -36,10 +36,10 @@
 * code refactor with MVVM and ReactiveCocoa
 
 ## Senior iOS Developer at [Cheetah Mobile](http://www.cmcm.com/zh-cn/) 
-*Reponsible for the business development and Solve technical problems in Battery Doctor and Shine, enroll development of Battery Doctor of Android version. (2014.4 - 2015.11)*
+*Responsible for the business development and Solve technical problems in Battery Doctor and Shine, enroll development of Battery Doctor of Android version. (2014.4 - 2015.11)*
 
 ### Shine
-Create waterfall layout for the homepage, customize SDWebimage to support animated webp, IM module, customize CoreTextLabel to support custom emojs, login and register module.
+Create waterfall layout for the homepage, customize SDWebImage to support animated webp, IM module, customize CoreTextLabel to support custom emoji, login and register module.
 
 ### Battery Doctor
 Make charging screen lock(complicate animation), apps market, activity center.
@@ -74,7 +74,7 @@ Encapsulate TableViewController basic class to remove duplicate codes, Web servi
 
 ## Education
 * 2010.9 - 2012.7 Northeastern University / Master / Computer Application Technology  
-* 2005.9 - 2009.7 Chang'an University / Bachlor / Intelligent Technology of Architectural Facilities 
+* 2005.9 - 2009.7 Chang'an University / Bachelor / Intelligent Technology of Architectural Facilities 
 
 ## Interest
 * Body fitting
